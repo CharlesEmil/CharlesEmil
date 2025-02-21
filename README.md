@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Charles Emil
-My Name is **Charles Emil Fouche** I'm a Sales Man selling tons of services and product for the good of my company ! Iam currently on a mission to switch from being a great seller to a great Data Analyst ! 
+My Name is **Charles Emil Fouche** I'm a Sales Man selling tons of services and products to drive my company's succes ! Iam currently on a mission to switch from being a great seller to a great Data Analyst ! 
 
 
 ## ☕ Stay Connected
