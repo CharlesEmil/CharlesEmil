@@ -4,7 +4,7 @@ My Name is **Charles Emil Fouche** I'm a Sales Man selling tons of services and 
 
 ## ☕ Stay Connected
 I made this Github page to share the world my work and connect to the Data Lovers ! 
-Lets stay in touch ! Feel free to connect with me on :
+Lets stay in touch ! Feel free to connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-emil-fouche/)
 
 
